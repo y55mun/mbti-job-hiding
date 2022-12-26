@@ -13,7 +13,7 @@
 ```
 
 2. Web Fonts
-- 웹 페이지에서 사용할 [pretendard][https://github.com/orioncactus/pretendard] 폰트를 가져오도록 지정
+- 웹 페이지에서 사용할 [pretendard](https://github.com/orioncactus/pretendard) 폰트를 가져오도록 지정
 - 가변 다이나믹 서브셋 부분을 복사
 ```
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
