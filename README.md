@@ -12,4 +12,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css">
 ```
 
-2. 
+2. Web Fonts
+- 웹 페이지에서 사용할 pretendard 폰트를 가져오도록 지정
+- https://github.com/orioncactus/pretendard
+- 가변 다이나믹 서브셋 부분을 복사
+```
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
