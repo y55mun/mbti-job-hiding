@@ -1,6 +1,6 @@
 body {
   font-family: "Pretendard Variable", sans-serif;
-  
+  word-break: keep-all;
 }
 img {
   display: block;
